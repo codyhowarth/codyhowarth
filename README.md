@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=500&height=100&lines=Hi+There!+I'm+Cody+Howarth;Software+Developer;Builder+and+Tinkerer)](https://git.io/typing-svg)
 
 <!--
 **codyhowarth/codyhowarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
