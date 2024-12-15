@@ -192,13 +192,13 @@
 
 <h1>Our continuing mission</h1>
 
-<p>As of <strong>2024-12-15 04:03:03 UTC</strong>, there have been <strong>38038</strong> exoplanets
+<p>As of <strong>2024-12-15 04:24:35 UTC</strong>, there have been <strong>38038</strong> exoplanets
   discovered in the known universe.</p>
 <p>Speaking of planets, here's the latest image we have of earth from NASA:
-  <img src="https://epic.gsfc.nasa.gov/archive/natural/2024/12/13/png/epic_1b_20241213002713.png" alt="Latest Earth Image" style="width: 640px; height: 640px;">
+  <img src="https://epic.gsfc.nasa.gov/archive/natural/2024/12/13/png/epic_1b_20241213002713.png" alt="Latest Earth Image" style="width: 400px; height: 400px;">
 </p>
 <p>The image is provided by NASA's EPIC <a href="https://epic.gsfc.nasa.gov/about/epic.html">(Earth
     Polychromatic
     Imaging Camera)</a> and is taken from the DSCOVR <a href="https://science.nasa.gov/mission/dscovr">(Deep
     Space
-    Climate Observatory)</a> satellite. Retrieved at 2024-12-15 04:03:03 UTC.</p>
+    Climate Observatory)</a> satellite. Retrieved at 2024-12-15 04:24:35 UTC.</p>
