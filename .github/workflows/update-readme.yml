@@ -2,7 +2,8 @@ name: README Update
 
 on:
   schedule:
-    - cron: '0 14,18,22 * * *' # every day at 2:00am, 6:00am, and 10:00am
+    # update once every 4 hours
+    - cron: "0 */4 * * *"
 
 jobs:
     update-readme:
