@@ -150,13 +150,13 @@
 <h1><img src="icons/star-trek-icon.png" width="22" height="22"> To boldly go... <img src="icons/star-trek-icon.png"
     width="22" height="22"></h1>
 
-<p>As of <strong>2025-11-24 20:28:08 UTC</strong>, there have been <strong>39119</strong> exoplanets
+<p>As of <strong>2025-11-25 01:56:21 UTC</strong>, there have been <strong>39119</strong> exoplanets
   discovered in the known universe.</p>
 <p>Speaking of planets, here's the latest image we have of earth from NASA:
-<div><img src="https://epic.gsfc.nasa.gov/archive/natural/2025/07/15/png/epic_1b_20250715035255.png" alt="Latest Earth Image" style="width: 400px; height: 400px;"></div>
+<div><img src="None" alt="Latest Earth Image" style="width: 400px; height: 400px;"></div>
 </p>
 <p>The image is provided by NASA's EPIC <a href="https://epic.gsfc.nasa.gov/about/epic.html">(Earth
     Polychromatic
     Imaging Camera)</a> and is taken from the DSCOVR <a href="https://science.nasa.gov/mission/dscovr">(Deep
     Space
-    Climate Observatory)</a> satellite. Retrieved at 2025-11-24 20:28:08 UTC.</p>
+    Climate Observatory)</a> satellite. Retrieved at 2025-11-25 01:56:21 UTC.</p>
