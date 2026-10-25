@@ -57,7 +57,7 @@
 </a>
 <a target="_blank" href="https://www.microsoft.com/en-us/windows-server" style="text-decoration: none;">
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/512px-Windows_logo_-_2021.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"
     alt="Windows Server" width=48 height=48>
 </a>
 <a target="_blank" href="https://www.microsoft.com/en-us/sql-server" style="text-decoration: none;">
@@ -102,7 +102,7 @@
 </a>
 <a target="_blank" href="https://www.sonarqube.org/" style="text-decoration: none;">
   <img
-    src="https://assets-eu-01.kc-usercontent.com/7630306f-9a2f-018d-2726-3ef76ef712f4/8e59bcad-6e39-41dc-abd9-a0e251e8d63f/Sonar%20%282%29.svg?w=128&h=32&auto=format&fit=clip"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sonarqube/sonarqube-original.svg"
     alt="SonarQube" width=48 height=48>
 </a>
 <a target="_blank" href="https://grafana.com/" style="text-decoration: none;">
@@ -130,7 +130,7 @@
     height=48>
 </a>
 <a target="_blank" href="https://angular.io/" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="AngularJS" width=48
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angularjs/angularjs-original.svg" alt="AngularJS" width=48
     height=48>
 </a>
 <a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)" style="text-decoration: none;">
@@ -150,13 +150,13 @@
 <h1><img src="icons/star-trek-icon.png" width="22" height="22"> To boldly go... <img src="icons/star-trek-icon.png"
     width="22" height="22"></h1>
 
-<p>As of <strong>2026-10-20 19:55:35 UTC</strong>, there have been <strong>None</strong> exoplanets
+<p>As of <strong>2026-10-25 18:48:27 UTC</strong>, there have been <strong>40350</strong> exoplanets
   discovered in the known universe.</p>
 <p>Speaking of planets, here's the latest image we have of earth from NASA:
-<div><img src="None" alt="Latest Earth Image" style="width: 400px; height: 400px;"></div>
+<div><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/png/epic_1b_20261023002712.png" alt="Latest Earth Image" style="width: 400px; height: 400px;"></div>
 </p>
 <p>The image is provided by NASA's EPIC <a href="https://epic.gsfc.nasa.gov/about/epic.html">(Earth
     Polychromatic
     Imaging Camera)</a> and is taken from the DSCOVR <a href="https://science.nasa.gov/mission/dscovr">(Deep
     Space
-    Climate Observatory)</a> satellite. Retrieved at 2026-10-20 19:55:35 UTC.</p>
+    Climate Observatory)</a> satellite. Retrieved at 2026-10-25 18:48:27 UTC.</p>
