@@ -33,15 +33,12 @@ def get_exoplanet_count():
       print(f"Unexpected data format: {e}")
 
 def get_latest_earth_image():
-    # Base URL for NASA's EPIC API
-    EPIC_API_URL = "https://api.nasa.gov/EPIC/api/natural/images"
-    
-    # Your NASA API key (replace with your actual key)
-    API_KEY = "DEMO_KEY"  # Replace "DEMO_KEY" with your actual NASA API key
+    # EPIC's own API; the api.nasa.gov gateway now redirects to a broken URL
+    EPIC_API_URL = "https://epic.gsfc.nasa.gov/api/natural"
 
     try:
         # Make the HTTP GET request to the EPIC API
-        response = requests.get(EPIC_API_URL, params={"api_key": API_KEY})
+        response = requests.get(EPIC_API_URL)
         response.raise_for_status()  # Raise an exception for HTTP errors
 
         # Parse the JSON response
